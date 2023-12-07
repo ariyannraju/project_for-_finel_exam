@@ -7,6 +7,7 @@
 
 	//
 	// Default settings
+	// sduihfs
 	//
 
 	var defaults = {
